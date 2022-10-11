@@ -1,4 +1,4 @@
 # github.io
 Curriculum Vitae-Personal Portfolio
-DavideZangari.pdf è il CV
 
+DavideZangari.pdf è il CV
